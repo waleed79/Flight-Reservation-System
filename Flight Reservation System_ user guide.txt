@@ -1,0 +1,43 @@
+	FLIGHT RESERVATION SYSTEM
+	A CS 100 Project 
+
+Instructor: Maryam Mustafa
+Lab-Instructor: Asma Khalil 
+Section:    4
+Teaching-Assistant (TA): Sadia Zubair 
+
+DEVELOPED BY:
+Waleed Arshad 
+2024-02-0358
+Muhammad Qasim Rashid
+2024-10-0058
+
+We have successfully developed a management system based on flight reservation system. It allows user to conveniantly book a flight, both domestic and international. 
+The program allows our valued customers to have a hassle-free method of reserving their flight, check for their reserved flight, or cancel their reserved flight. 
+
+User is presented with these choices:
+1)book a flight, 
+2)check a reserved flight, 
+3)random selection, and 
+4)cancel a flight.
+
+1)book a flight,
+If you select this option, you will be redirected to a new window and would be asked to book a domestic or international flight. After entering your choice, you will
+be asked to select you departure and arrival city. After that, you have to select date from the options displayed, and after that you would be asked to select an 
+available flight you wish to travel on. Doing this would lead you to enter passenger's information, and HOORAY!! you have booked your flight.
+
+2)check a reserved flight,
+If you select this option, you will be redirected to a new window and would be asked to check domestic or international flight. Then a prompt will ask you to enter 
+a passport number against which you reserved you flight. If it matches to the passport number in our database, your flight details will be printed, else you will be 
+returned to the front page.
+
+3)random selection,
+This one is fond travellers amongst our users. If you select this option, you will be redirected to a new window and to select domestic or international travel. 
+Then user would have to select their departure city. Then, program will display a random flight, and if you wish to travel, you can enter yes, and program will 
+ask for information regarding passenger flight, and off you go to your new travel adventure!
+
+4)cancel a flight
+If you select this option, you will be asked to cancel domestic or international flight. Then, a prompt would ask you to enter passport number against which you
+reserved your flight. If it matches to the passport number in our database, your flight will be cancelled, else you will be returned to the front page.
+
+HAPPY RESERVING A FLIGHT!!
